@@ -2,4 +2,4 @@
 ## The concept is extended from the first game @KeyTerminator.
 
 Commuting 
-day 5 commuting.
+Day 6 Interview Prep.
