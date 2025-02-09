@@ -2,4 +2,4 @@
 ## The concept is extended from the first game @KeyTerminator.
 
 Commuting 
-Day 6 interview Prep & tired.
+Day 7 Searching new Assets.
