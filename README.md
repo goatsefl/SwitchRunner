@@ -1,4 +1,4 @@
-# Switch runner is a platform runner with a simple twist.
+# Switch runner is a endless runner with a simple twist.
 ## The concept is extended from the first game @KeyTerminator.
 
 Commuting 
